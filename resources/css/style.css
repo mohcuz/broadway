@@ -3,4 +3,8 @@ body {text-align: center; font-family: Helvetica;}
 h1 {color: white; font-size: 70px; font-weight: bold;}
 .heroicbanner h4 {color:white; font-size: 18px; text-decoration: underline;}
 .body h2 {font-size: 32px; font-weight: bold;}
-.body h4 {font-size: 14px}
+p {font-size: 14px}
+.footer h2 {background-image: url(../images/the-flatiron-building.png); font-size: 23px; font-weight: bold; color: white;}
+h3 {font-size: 23px; font-weight: bold;}
+h5 {text-align: left; font-size: 11px; color: white; background-color: dimgray;}
+span {font-weight: bold; text-decoration: underline;;}
