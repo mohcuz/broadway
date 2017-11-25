@@ -1,4 +1,6 @@
 body {text-align: center; font-family: Helvetica;}
 .heroicbanner {background-image: url(../images/the-flatiron-building.png);}
 h1 {color: white; font-size: 70px; font-weight: bold;}
-.herobanner,h4 {color:white; font-size: 18px;}
+.heroicbanner h4 {color:white; font-size: 18px; text-decoration: underline;}
+.body h2 {font-size: 32px; font-weight: bold;}
+.body h4 {font-size: 14px}
